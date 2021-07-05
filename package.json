@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "google-spreadsheet": "^3.1.15"
+  }
+}

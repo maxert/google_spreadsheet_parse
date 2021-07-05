@@ -1,0 +1,101 @@
+[
+  {
+    "title": "New York",
+    "county_name": {
+      "title": "New York",
+      "city": {
+        "title": "New York"
+      }
+    }
+  },
+  {
+    "title": "California",
+    "county_name": {
+      "title": "Los Angeles",
+      "city": {
+        "title": "Los Angeles"
+      }
+    }
+  },
+  {
+    "title": "Illinois",
+    "county_name": {
+      "title": "Cook",
+      "city": {
+        "title": "Chicago"
+      }
+    }
+  },
+  {
+    "title": "Florida",
+    "county_name": {
+      "title": "Miami-Dade",
+      "city": {
+        "title": "Miami"
+      }
+    }
+  },
+  {
+    "title": "Texas",
+    "county_name": {
+      "title": "Dallas",
+      "city": {
+        "title": "Dallas"
+      }
+    }
+  },
+  {
+    "title": "Pennsylvania",
+    "county_name": {
+      "title": "Philadelphia",
+      "city": {
+        "title": "Philadelphia"
+      }
+    }
+  },
+  {
+    "title": "Texas",
+    "county_name": {
+      "title": "Harris",
+      "city": {
+        "title": "Houston"
+      }
+    }
+  },
+  {
+    "title": "Georgia",
+    "county_name": {
+      "title": "Fulton",
+      "city": {
+        "title": "Atlanta"
+      }
+    }
+  },
+  {
+    "title": "District of Columbia",
+    "county_name": {
+      "title": "District of Columbia",
+      "city": {
+        "title": "Washington"
+      }
+    }
+  },
+  {
+    "title": "Massachusetts",
+    "county_name": {
+      "title": "Suffolk",
+      "city": {
+        "title": "Boston"
+      }
+    }
+  },
+  {
+    "title": "Arizona",
+    "county_name": {
+      "title": "Maricopa",
+      "city": {
+        "title": "Phoenix"
+      }
+    }
+  }
+]
